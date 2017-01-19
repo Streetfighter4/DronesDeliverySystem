@@ -1,0 +1,4 @@
+1483106179161	Extract method 'seatsInHall'
+1483106376360	Extract method 'availableSeats'
+1483106473233	Extract method 'selectingSeats'
+1483109031600	Extract method 'makeReservation'
